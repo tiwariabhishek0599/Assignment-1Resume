@@ -1,6 +1,6 @@
 Hosted Link: https://tiwariabhishek0599.github.io/Assignment-1Resume/
 ![head](https://github.com/tiwariabhishek0599/Assignment-1Resume/assets/118967913/8d5fedd5-785a-41fb-8fe1-93c8ca0a8dc7)
-The head is created with the help of <h1></h1> ,<p></p> and <a href=""></a>tag and a line created by <hr> tag.![body1](https://github.com/tiwariabhishek0599/Assignment-1Resume/assets/118967913/93ce5007-424e-4916-a59b-5708686cb0f4)
+The head is created with the help of 'h1' ,'p' and <a href=""></a>tag and a line created by <hr> tag.![body1](https://github.com/tiwariabhishek0599/Assignment-1Resume/assets/118967913/93ce5007-424e-4916-a59b-5708686cb0f4)
 Experience is written by using <h2></h2> tag and Software Enginer at Amazon is written by usinh <h2></h2> tag and rest is wriiten using lorem extension and <hr> for line.
 ![2](https://github.com/tiwariabhishek0599/Assignment-1Resume/assets/118967913/f4f0d245-4a02-4833-a511-e048a544bfe4)
 Educator at Geekster written using <h2></h2> tag and rest usning lorem with a line using <hr>.
